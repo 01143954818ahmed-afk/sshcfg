@@ -1,8 +1,61 @@
 {
-  "version": 4,
-  "host": "51.210.183.106",
-  "port": 443,
-  "user": "listvpn.net-AhmedTeam1",
-  "password": "AhmedTeam1",
-  "sni": "Etisalat.eg"
+  "version": 5,
+  "servers": [
+    {
+      "name": "Server 1",
+      "host": "51.210.183.106",
+      "port": 443,
+      "user": "listvpn.net-AhmedTeam1",
+      "password": "AhmedTeam1",
+      "sni": "listvpn.net"
+    },
+    {
+      "name": "Server 2",
+      "host": "51.210.183.106",
+      "port": 443,
+      "user": "listvpn.net-AhmedTeam1",
+      "password": "AhmedTeam1",
+      "sni": "listvpn.net"
+    },
+    {
+      "name": "Server 3",
+      "host": "51.210.183.106",
+      "port": 443,
+      "user": "listvpn.net-AhmedTeam1",
+      "password": "AhmedTeam1",
+      "sni": "listvpn.net"
+    },
+    {
+      "name": "Server 4",
+      "host": "51.210.183.106",
+      "port": 443,
+      "user": "listvpn.net-AhmedTeam1",
+      "password": "AhmedTeam1",
+      "sni": "listvpn.net"
+    },
+    {
+      "name": "Server 5",
+      "host": "51.210.183.106",
+      "port": 443,
+      "user": "listvpn.net-AhmedTeam1",
+      "password": "AhmedTeam1",
+      "sni": "listvpn.net"
+    },
+    {
+      "name": "Server 6",
+      "host": "51.210.183.106",
+      "port": 443,
+      "user": "listvpn.net-AhmedTeam1",
+      "password": "AhmedTeam1",
+      "sni": "listvpn.net"
+    },
+    {
+      "name": "Server 7",
+      "host": "51.210.183.106",
+      "port": 443,
+      "user": "listvpn.net-AhmedTeam1",
+      "password": "AhmedTeam1",
+      "sni": "listvpn.net"
+    }
+  ]
 }
