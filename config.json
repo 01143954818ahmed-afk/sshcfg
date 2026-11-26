@@ -1,8 +1,8 @@
 {
-  "version": 5,
+  "version": 6,
   "servers": [
     {
-      "name": "Server 1",
+      "name": "Cairo 1",
       "host": "51.210.183.106",
       "port": 443,
       "user": "listvpn.net-AhmedTeam1",
@@ -10,7 +10,7 @@
       "sni": "listvpn.net"
     },
     {
-      "name": "Server 2",
+      "name": "Cairo 2",
       "host": "51.210.183.106",
       "port": 443,
       "user": "listvpn.net-AhmedTeam1",
@@ -18,7 +18,7 @@
       "sni": "listvpn.net"
     },
     {
-      "name": "Server 3",
+      "name": "Alex 3",
       "host": "51.210.183.106",
       "port": 443,
       "user": "listvpn.net-AhmedTeam1",
@@ -26,7 +26,7 @@
       "sni": "listvpn.net"
     },
     {
-      "name": "Server 4",
+      "name": "Giza 4",
       "host": "51.210.183.106",
       "port": 443,
       "user": "listvpn.net-AhmedTeam1",
@@ -34,7 +34,7 @@
       "sni": "listvpn.net"
     },
     {
-      "name": "Server 5",
+      "name": "Delta 5",
       "host": "51.210.183.106",
       "port": 443,
       "user": "listvpn.net-AhmedTeam1",
@@ -42,7 +42,7 @@
       "sni": "listvpn.net"
     },
     {
-      "name": "Server 6",
+      "name": "Nile 6",
       "host": "51.210.183.106",
       "port": 443,
       "user": "listvpn.net-AhmedTeam1",
@@ -50,12 +50,12 @@
       "sni": "listvpn.net"
     },
     {
-      "name": "رف🇪🇬🔥",
+      "name": "Sinai 7",
       "host": "51.210.183.106",
       "port": 443,
       "user": "listvpn.net-AhmedTeam1",
       "password": "AhmedTeam1",
-      "sni": "www"
+      "sni": "listvpn.net"
     }
   ]
 }
