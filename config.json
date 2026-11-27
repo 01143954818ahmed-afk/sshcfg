@@ -2,12 +2,12 @@
   "version": 8,
   "servers": [
     {
-      "name": "Ahmed V2Ray 2",
+      "name": "Ahmed V2Ra🇪🇬y 2",
       "mux": { "enabled": false },
       "protocol": "vless",
       "settings": {
         "vnext": [{
-          "address": "freeceshi6.frii.site",
+          "address": "moss.gov.eg",
           "port": 443,
           "users": [{ "encryption": "none", "id": "53bbdad4-2f4e-45db-8df4-fa491a6a7227", "level": 8 }]
         }]
