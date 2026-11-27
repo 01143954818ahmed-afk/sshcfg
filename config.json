@@ -1,54 +1,49 @@
 {
-  "version": 8,
+  "version": 9,
   "servers": [
     {
-      "name": "Ahmed V2Ra🇪🇬y 2",
-      "mux": { "enabled": false },
+      "name": "500 Etisalat 🇪🇬",
+      "mux": {
+        "enabled": false
+      },
       "protocol": "vless",
       "settings": {
-        "vnext": [{
-          "address": "moss.gov.eg",
-          "port": 443,
-          "users": [{ "encryption": "none", "id": "53bbdad4-2f4e-45db-8df4-fa491a6a7227", "level": 8 }]
-        }]
+        "vnext": [
+          {
+            "address": "moss.gov.eg",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "53bbdad4-2f4e-45db-8df4-fa491a6a7227",
+                "level": 8
+              }
+            ]
+          }
+        ]
       },
       "streamSettings": {
         "network": "ws",
         "security": "tls",
-        "tlsSettings": { "allowInsecure": true, "serverName": "freeceshi6.frii.site" },
+        "tlsSettings": {
+          "serverName": "moss.gov.eg",
+          "allowInsecure": true
+        },
         "wsSettings": {
-          "headers": { "Host": "freeceshi6.frii.site" },
-          "path": "/?@elproofteam---@elproofteam---@elproofteam---@elproofteam---@elproofteam"
+          "path": "\/?@elproofteam---@elproofteam---@elproofteam---@elproofteam---@elproofteam",
+          "headers": {
+            "Host": "moss.gov.eg"
+          }
         }
       }
     },
     {
-      "name": "500",
-      "mux": { "enabled": false },
-      "protocol": "vless",
-      "settings": {
-        "vnext": [{
-          "address": "moss.gov.eg",
-          "port": 443,
-          "users": [{ "encryption": "none", "id": "53bbdad4-2f4e-45db-8df4-fa491a6a7227", "level": 8 }]
-        }]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": { "allowInsecure": true, "serverName": "freeceshi6.frii.site" },
-        "wsSettings": {
-          "headers": { "Host": "freeceshi6.frii.site" },
-          "path": "/?@elproofteam---@elproofteam---@elproofteam---@elproofteam---@elproofteam"
-        }
-      }
-    },
-    { "name": "Cairo 1", "host": "51.210.183.106", "port": 443, "user": "listvpn.net-AhmedTeam1", "password": "AhmedTeam1", "sni": "listvpn.net" },
-    { "name": "Cairo 2", "host": "51.210.183.106", "port": 443, "user": "listvpn.net-AhmedTeam1", "password": "AhmedTeam1", "sni": "listvpn.net" },
-    { "name": "Alex 3", "host": "51.210.183.106", "port": 443, "user": "listvpn.net-AhmedTeam1", "password": "AhmedTeam1", "sni": "listvpn.net" },
-    { "name": "Giza 4", "host": "51.210.183.106", "port": 443, "user": "listvpn.net-AhmedTeam1", "password": "AhmedTeam1", "sni": "listvpn.net" },
-    { "name": "Delta 5", "host": "51.210.183.106", "port": 443, "user": "listvpn.net-AhmedTeam1", "password": "AhmedTeam1", "sni": "listvpn.net" },
-    { "name": "Nile 6", "host": "51.210.183.106", "port": 443, "user": "listvpn.net-AhmedTeam1", "password": "AhmedTeam1", "sni": "listvpn.net" },
-    { "name": "Sinai 7", "host": "51.210.183.106", "port": 443, "user": "listvpn.net-AhmedTeam1", "password": "AhmedTeam1", "sni": "listvpn.net" }
+      "name": "300 Etisalat 🇪🇬",
+      "host": "51.210.183.106",
+      "port": 443,
+      "user": "listvpn.net-AhmedTeam1",
+      "password": "AhmedTeam1",
+      "sni": "Etisalat.eg"
+    }
   ]
 }
