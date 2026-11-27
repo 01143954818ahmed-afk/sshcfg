@@ -1,6 +1,7 @@
 {
-  "version": 6,
+  "version": 7,
   "servers": [
+{"name": "Ahmed V2Ray", "mux": {"enabled": false}, "protocol": "vmess", "settings": {"vnext": [{"address": "elproof-protocol.duckdns.org", "port": 1234, "users": [{"alterId": 0, "id": "5c040f1d-45db-43bd-8d46-e4950e433735", "level": 8, "security": "aes-128-gcm"}]}]}, "streamSettings": {"network": "tcp", "security": "tls", "tlsSettings": {"allowInsecure": true, "serverName": "listvpn.com"}}},
     {
       "name": "Cairo 1",
       "host": "51.210.183.106",
